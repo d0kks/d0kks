@@ -1,7 +1,7 @@
 # Hi, I'm İlkhan Mutlu 🔱
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F9A825&center=true&width=1000&lines=aut+viam+inveniam+aut+faciam+flectere+si+nequeo+superos+acheronta+movebo)](https://git.io/typing-svg)
 
-Wannabe self-taught software engineer and stat student from the Middle East Technical University.
+## Wannabe self-taught software engineer and stat student from the Middle East Technical University.
 
 - 🔱 Author of none but soon to be a lot open source projects.
 <!--
