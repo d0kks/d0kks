@@ -44,9 +44,15 @@ Wannabe self-taught software engineer and stat student from the Middle East Tech
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0kks)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0kks)](https://github.com/anuraghazra/github-readme-stats)
+[![d0kks's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0kks)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
+<!-- extra repo pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) 
+
+-->
 ---
 
 🔱🔱🔱 by [Ilkhan Mutlu](https://github.com/d0kks) | [Let the Devil In](https://youtu.be/_OhbOO2HBUw?si=yflzb4sONOAsWFqO&t=14) 🙏
