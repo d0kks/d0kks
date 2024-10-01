@@ -15,7 +15,7 @@ Wannabe self-taught software engineer and stat student from the Middle East Tech
 -->
 - 💡 [Learn more about me](https://bio.link/dokks).
 
-### 🎧 My Spotify Playlists
+## 🎧 My Spotify Playlists
 
 [![Sometimes](https://img.shields.io/badge/sometimes-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5sdTXRhmNZ4Kam3Yfvafag?si=b90bb0ac9e4b4b21) 
 [![feelin' it](https://img.shields.io/badge/feelin'%20it-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7AICSlbm4Kfeu8tLgqkIOj?si=06b714a376324b37) 
