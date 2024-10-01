@@ -1,9 +1,9 @@
-# Hi, I'm Ilkhan Mutlu
+# Hi, I'm Ilkhan Mutlu 🔱
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F9A825&center=true&width=1000&lines=aut+viam+inveniam+aut+faciam+flectere+si+nequeo+superos+acheronta+movebo)](https://git.io/typing-svg)
 
 Wannabe self-taught software engineer and stat student from the Middle East Technic University.
 
-- 💝 Author of none but soon to be a lot open source projects.
+- 🔱 Author of none but soon to be a lot open source projects.
 <!--
 - 💼 Customer Success Engineer 
 - 🌱 Building 
@@ -51,4 +51,4 @@ Wannabe self-taught software engineer and stat student from the Middle East Tech
 
 ---
 
-💻💖☕ by [Ilkhan Mutlu]() | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
+🔱🔱🔱 by [Ilkhan Mutlu](https://github.com/d0kks) | [Let the Devil In](https://youtu.be/_OhbOO2HBUw?si=yflzb4sONOAsWFqO&t=14) 🙏
