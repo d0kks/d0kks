@@ -19,7 +19,6 @@ Wannabe self-taught software engineer and stat student from the Middle East Tech
 
 [![Sometimes](https://img.shields.io/badge/Sometimes-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5sdTXRhmNZ4Kam3Yfvafag?si=b90bb0ac9e4b4b21) 
 
-<!-- [![Spotify](https://spoti-d0kks.vercel.app/api/spotify)](https://open.spotify.com/user/3172eezd7fd7bl2s5uuqhlgkavyq) -->
 
 ## 🔧 Skills
 
@@ -45,8 +44,7 @@ Wannabe self-taught software engineer and stat student from the Middle East Tech
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0kks)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0kks)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 ---
