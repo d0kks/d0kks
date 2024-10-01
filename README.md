@@ -13,7 +13,7 @@
 - ☕ Coffee lover, turning it into code,
 - 🎯 Wasting my time to save other people's time.
 -->
-- 💡 [Learn more about me](https://bio.link/dokks).
+- 💡 [Socials](https://bio.link/dokks).
 
 ## 🎧 My Spotify Playlists
 
