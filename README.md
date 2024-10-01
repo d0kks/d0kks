@@ -1,4 +1,4 @@
-# Hi, I'm Ilkhan Mutlu 🔱
+# Hi, I'm İlkhan Mutlu 🔱
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F9A825&center=true&width=1000&lines=aut+viam+inveniam+aut+faciam+flectere+si+nequeo+superos+acheronta+movebo)](https://git.io/typing-svg)
 
 Wannabe self-taught software engineer and stat student from the Middle East Technical University.
@@ -15,9 +15,11 @@ Wannabe self-taught software engineer and stat student from the Middle East Tech
 -->
 - 💡 [Learn more about me](https://bio.link/dokks).
 
-### 🎧 Spotify Playing
+### 🎧 My Spotify Playlists
 
-[![Sometimes](https://img.shields.io/badge/Sometimes-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5sdTXRhmNZ4Kam3Yfvafag?si=b90bb0ac9e4b4b21) 
+[![Sometimes](https://img.shields.io/badge/sometimes-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5sdTXRhmNZ4Kam3Yfvafag?si=b90bb0ac9e4b4b21) 
+[![feelin' it](https://img.shields.io/badge/feelin'%20it-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7AICSlbm4Kfeu8tLgqkIOj?si=06b714a376324b37) 
+[![caution](https://img.shields.io/badge/caution-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0Z3IVAjr1fPooenHwi2rgE?si=9645fb7e818d4257) 
 
 
 ## 🔧 Skills
@@ -55,4 +57,4 @@ Wannabe self-taught software engineer and stat student from the Middle East Tech
 -->
 ---
 
-🔱🔱🔱 by [Ilkhan Mutlu](https://github.com/d0kks) | [Let the Devil In](https://youtu.be/_OhbOO2HBUw?si=yflzb4sONOAsWFqO&t=14) 🙏
+🔱🔱🔱 by [İlkhan Mutlu](https://github.com/d0kks) | [Let the Devil In](https://youtu.be/_OhbOO2HBUw?si=yflzb4sONOAsWFqO&t=14) 🙏
